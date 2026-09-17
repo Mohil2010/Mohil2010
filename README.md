@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&multiline=false&width=500&lines=Mobile+App+Developer;Passionate+about+UI%2FUX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&multiline=false&width=500&lines=Mobile+App+Developer;Passionate+about+UI%2FUX;Crafting+Android+Apps+in+VS+Code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,13 +28,24 @@
 
 ---
 
-### 📬 Contact Me
+### 📬 Connect With Me
 
-* 📧 **Email:** mohilpatle10@gmail.com
+<p align="left">
+  <a href="mailto:mohilpatle10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mr_mohil_.10._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🐍 GitHub Activity Graph
+### 📊 GitHub Activity & Visitor Count
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mohil2010&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Mohil2010/Mohil2010/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
