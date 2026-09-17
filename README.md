@@ -25,3 +25,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
+---
+
+### 📬 Contact Me
+
+* 📧 **Email:** mohilpatle10@gmail.com
+
+---
+
+### 🐍 GitHub Activity Graph
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Mohil2010/Mohil2010/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
