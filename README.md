@@ -31,26 +31,26 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:mohilpatle10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mohilpatle10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  📧 **Email:** <a href="mailto:mohilpatle10@gmail.com">mohilpatle10@gmail.com</a>
+  <br/><br/>
+  📸 **Instagram:** <a href="https://instagram.com/mr_mohil_.10._" target="_blank">@mr_mohil_.10._</a>
   <br/><br/>
   <a href="https://instagram.com/mr_mohil_.10._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-mr__mohil_.10._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Pro Stats & Numbers
+### 📊 GitHub Stats & Trophy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohil2010&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohil2010&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohil2010&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohil2010&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohil2010&show_icons=true&theme=dark&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohil2010&layout=compact&theme=dark" width="45%" />
 </p>
 
 </div>
