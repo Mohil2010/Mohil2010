@@ -1,13 +1,16 @@
 # Hi 👋, I'm Mohil Patle
 
-### 📱 Mobile App Developer
-**Passionate about UI/UX**
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&multiline=false&width=500&height=50&lines=Mobile+App+Developer;Passionate+about+UI%2FUX;Crafting+Android+Apps+in+VS+Code" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 📝 About Me
+### 🚀 About Me
 
-* 💻 **Role:** Mobile App Developer crafting modern apps using **VS Code**.
+* 📱 **Role:** Mobile App Developer crafting modern apps using **VS Code**.
 * 🎨 **Focus:** Designing clean, responsive, and user-friendly interfaces.
 * 🎯 **Goal:** Building real-world solutions and continuously learning new technologies.
 
@@ -22,12 +25,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
----
-
-### 📬 Contact Me
-
-* 📧 **Email:** mohilpatle10@gmail.com
 
 ---
 
