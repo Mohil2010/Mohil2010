@@ -6,6 +6,9 @@
   </a>
 </p>
 
+### 📱 Mobile App Developer
+**Passionate about UI/UX**
+
 ---
 
 ### 📝 About Me
@@ -30,7 +33,7 @@
 
 ### 📬 Contact
 
-* ✉️ **Gmail:** mohilpatle10@gmail.com
+* 📧 **Email:** mohilpatle10@gmail.com
 
 ---
 
