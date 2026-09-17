@@ -2,14 +2,14 @@
 
 # Hi 👋, I'm Mohil Patle
 
-<h3>📱 Mobile App Developer | 🎨 UI/UX Enthusiast</h3>
-
-<br/>
-
-<!-- Live Coding Boy Animation -->
-<img src="https://assets10.lottiefiles.com/packages/lf20_w51pcehl.json" alt="Coding Boy" width="350px" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Mobile+App+Developer;Passionate+about+UI%2FUX;Crafting+Android+Apps+in+VS+Code" alt="Typing SVG" />
+</a>
 
 <br/><br/>
+
+<!-- Live Developer Coding Illustration -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450px" alt="Coding Boy Animation" />
 
 ---
 
