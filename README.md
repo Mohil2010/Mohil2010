@@ -1,10 +1,10 @@
+<div align="center">
+
 # Hi 👋, I'm Mohil Patle
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&multiline=false&width=500&lines=Mobile+App+Developer;Passionate+about+UI%2FUX;Crafting+Android+Apps+in+VS+Code" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Mobile+App+Developer;Passionate+about+UI%2FUX;Crafting+Android+Apps+in+VS+Code" alt="Typing SVG" />
+</a>
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,7 +30,7 @@
 
 ### 📬 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:mohilpatle10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mohilpatle10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -42,8 +42,10 @@
 
 ---
 
-### ⚡ Activity Overview
+### 📊 Real Activity Counter
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohil2010&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="Profile Views" />
 </p>
+
+</div>
