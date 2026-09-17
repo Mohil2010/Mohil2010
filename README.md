@@ -1,10 +1,10 @@
+<div align="center">
+
 # Hi 👋, I'm Mohil Patle
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&multiline=false&width=500&lines=Mobile+App+Developer;Passionate+about+UI%2FUX;Crafting+Android+Apps+in+VS+Code" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Mobile+App+Developer;Passionate+about+UI%2FUX;Crafting+Android+Apps+in+VS+Code" alt="Typing SVG" />
+</a>
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,23 +30,27 @@
 
 ### 📬 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:mohilpatle10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-mohilpatle10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br/><br/>
   <a href="https://instagram.com/mr_mohil_.10._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-mr__mohil_.10._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity & Visitor Count
+### 📊 GitHub Pro Stats & Numbers
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mohil2010&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohil2010&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohil2010&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Mohil2010/Mohil2010/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohil2010&theme=tokyonight&hide_border=true" width="90%" />
 </p>
+
+</div>
