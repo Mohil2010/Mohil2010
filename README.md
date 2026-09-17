@@ -42,10 +42,10 @@
 
 ---
 
-### 📊 Real Activity Counter
+### 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohil2010&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohil2010&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Mohil's Activity Graph" />
 </p>
 
 </div>
