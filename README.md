@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Mobile+App+Developer;Passionate+about+UI%2FUX;Crafting+Android+Apps+in+VS+Code" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<!-- Live Developer Coding Illustration -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450px" alt="Coding Boy Animation" />
+
 ---
 
 ### 📝 About Me
@@ -38,14 +43,6 @@
   <a href="https://instagram.com/mr_mohil_.10._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40mr__mohil_.10._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-### 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohil2010&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Mohil's Activity Graph" />
 </p>
 
 </div>
