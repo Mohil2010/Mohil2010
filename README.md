@@ -8,8 +8,10 @@
 
 <br/><br/>
 
-<!-- Young Developer Coding Animation -->
-<img src="https://media.giphy.com/media/qgQUGGAC3P4FmRySHW/giphy.gif" width="350px" alt="Young Boy Coding Animation" />
+<!-- Official GitHub Hosted Coding Boy Animation -->
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-developer.svg" width="220px" alt="Developer Animation" />
+
+<br/><br/>
 
 ---
 
