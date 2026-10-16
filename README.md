@@ -15,9 +15,9 @@
 
 ### 📝 About Me
 
-* 💻 **Role:** Mobile App Developer crafting modern apps using **VS Code**.
-* 🎨 **Focus:** Designing clean, responsive, and user-friendly interfaces.
-* 🎯 **Goal:** Building real-world solutions and continuously learning new technologies.
+- 💻 **Role:** Mobile App Developer crafting modern apps using **VS Code**.
+- 🎨 **Focus:** Designing clean, responsive, and user-friendly interfaces.
+- 🎯 **Goal:** Building real-world solutions and continuously learning new technologies.
 
 ---
 
@@ -29,6 +29,30 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohilpatle10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohil's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohilpatle10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohilpatle10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohilpatle10&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
