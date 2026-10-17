@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: url('HD-wallpaper-github-violet-logo-violet-brickwall-github-logo-social-networks-github-neon-logo-github.jpg') no-repeat center center; background-size: cover; padding: 30px; border-radius: 10px;">
 
 # Hi 👋, I'm Mohil Patle
 
@@ -18,15 +18,6 @@
 - 💻 **Role:** Mobile App Developer crafting modern apps using **VS Code**.
 - 🎨 **Focus:** Designing clean, responsive, and user-friendly interfaces.
 - 🎯 **Goal:** Building real-world solutions and continuously learning new technologies.
-- ⚡ **Fun Fact:** I love turning complex ideas into simple, elegant code!
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohilpatle10&theme=onedark&column=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -38,16 +29,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### ⚡ Daily Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
