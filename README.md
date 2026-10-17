@@ -1,4 +1,4 @@
-<div align="center" style="background: url('HD-wallpaper-github-violet-logo-violet-brickwall-github-logo-social-networks-github-neon-logo-github.jpg') no-repeat center center; background-size: cover; padding: 30px; border-radius: 10px;">
+<div align="center" style="background-color: #0d061a; padding: 30px; border-radius: 15px; border: 2px solid #a855f7; box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);">
 
 # Hi 👋, I'm Mohil Patle
 
@@ -21,6 +21,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohilpatle10&theme=tokyonight&column=4&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🛠️ Tech & Tools
 
 <p align="center">
@@ -29,6 +37,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### ⚡ Daily Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
