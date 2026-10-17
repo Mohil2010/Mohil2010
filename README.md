@@ -21,6 +21,21 @@
 
 ---
 
+### 🚀 My Apps & Projects
+
+<p align="center">
+  <!-- यहाँ आप अपने ऐप्स के नाम और उनके लिंक्स डाल सकते हैं -->
+  <a href="YAHAN_APNE_PEHLE_APP_KA_LINK_DALO" target="_blank">
+    <img src="https://img.shields.io/badge/📱_App_1_Name-00F0FF?style=for-the-badge&logo=android&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YAHAN_APNE_DOOSRE_APP_KA_LINK_DALO" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_App_2_Name-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech & Tools
 
 <p align="center">
